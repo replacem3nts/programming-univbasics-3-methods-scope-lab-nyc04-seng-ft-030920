@@ -11,4 +11,5 @@ end
 def link
 end
 
-def 
+def any_phrase
+end
